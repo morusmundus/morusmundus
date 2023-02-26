@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi 👋 
 
----
+### About me: 
 
-### :hammer_and_wrench: Languages and Tools :
+I'm aspiring Full Stack Developer, for now only a student, but I'm striving to become a professional 
+
+--- 
+### Languages and Tools I have experience with:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -17,17 +20,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<!--
-**morusmundus/morusmundus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Socials:
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amaliaromanenko/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/morusmundus)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Have a good day! <img src="https://media2.giphy.com/media/KDCuH0xJ4BOzeL7WrC/giphy.gif?cid=ecf05e47wgiyyoyfk1ze4m5u40h0azuybolhulwowvpnls5h&rid=giphy.gif&ct=s" width="50">

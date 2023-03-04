@@ -24,6 +24,7 @@ I'm aspiring Full Stack Developer, for now only a student, but I'm striving to b
 ### Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amaliaromanenko/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/morusmundus)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)]()
 
 ---
 ### Have a good day! <img src="https://media2.giphy.com/media/KDCuH0xJ4BOzeL7WrC/giphy.gif?cid=ecf05e47wgiyyoyfk1ze4m5u40h0azuybolhulwowvpnls5h&rid=giphy.gif&ct=s" width="50">

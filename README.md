@@ -5,7 +5,7 @@
 I'm aspiring Full Stack Developer, for now only a student, but I'm striving to become a professional 
 
 --- 
-### Languages and Tools I have experience with:
+### Languages and tools I have experience with:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;

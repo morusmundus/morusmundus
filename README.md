@@ -2,7 +2,7 @@
 
 ### About me: 
 
-I'm aspiring Full Stack Developer, for now only a student, but I'm striving to become a professional 
+I'm aspiring Front-end Developer, for now only a student, but I'm striving to become a professional 
 
 --- 
 ### Languages and tools I have experience with:
